@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1484736212683">{:repl-history {:ide [], :local [&quot;(hello-world/hello) &quot; &quot;(hello) &quot; &quot;hello-world/hello&quot; &quot;(hello-world/hello)&quot; &quot;(deftest hello-world-test\n  (is (= \&quot;Hello, World!\&quot; (hello-world/hello))))&quot; &quot;(deftest hello-alice-test\n  (is (= \&quot;Hello, Alice!\&quot; (hello-world/hello \&quot;Alice\&quot;))))&quot; &quot;(deftest hello-alice-test\n         (is (= \&quot;Hello, Alice!\&quot; (hello-world/hello \&quot;Alice\&quot;))))&quot;], :remote []}}</component>
+</project>
